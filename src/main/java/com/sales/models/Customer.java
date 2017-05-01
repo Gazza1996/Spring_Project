@@ -1,3 +1,5 @@
+// Gary Mannion - G00319609
+
 package com.sales.models;
 
 import java.util.ArrayList;
