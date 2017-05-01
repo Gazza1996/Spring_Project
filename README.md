@@ -13,9 +13,9 @@ The Model for the application consists of three objects:
 - Product ID  
 - Description  
 - Quantity In Stock  
-```  
+``` 
 
-## Customers  
+## Customers
 ```   
 - Customer ID  
 - Customer Name  
