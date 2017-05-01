@@ -9,21 +9,21 @@ The application should be written in Spring Boot based on the skeleton applicati
 The Model for the application consists of three objects:  
 
 ## Products
-```
+```  
 - Product ID  
 - Description  
 - Quantity In Stock  
-```
+```  
 
 ## Customers  
-```
+```   
 - Customer ID  
 - Customer Name  
 ```
   
 ## Orders  
-```
+```  
 - Order ID  
 - Order Quantity  
 - Order Date  
-```
+```  
